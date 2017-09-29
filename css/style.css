@@ -35,6 +35,11 @@ ul{
 }
 
 /* Header **/
+h1.main_header {
+  text-align:right;
+  /*font-size: 50px;*/
+}
+
 header{
   background:#35424a;
   color:#ffffff;
