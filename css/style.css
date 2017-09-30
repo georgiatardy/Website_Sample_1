@@ -38,12 +38,12 @@ ul{
 /* Header **/
 h1.main_header {
   text-align:right;
-  text-shadow: 2px 2px #FF0000;
-  /*font-size: 50px;*/
+  text-shadow: 4px 4px #5B3311;
+
 }
 
 p.tagline {
-  text-shadow: 2px 2px #FF0000;
+  text-shadow: 2px 2px #5B3311;
 }
 
 header{
