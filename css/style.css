@@ -19,8 +19,9 @@ ul{
 
 .button_1{
   height:38px;
-  background:#e8491d;
+  background:#4A260E;
   border:0;
+  border-radius: 115px;
   padding-left: 20px;
   padding-right:20px;
   color:#ffffff;
@@ -37,15 +38,20 @@ ul{
 /* Header **/
 h1.main_header {
   text-align:right;
+  text-shadow: 2px 2px #FF0000;
   /*font-size: 50px;*/
 }
 
+p.tagline {
+  text-shadow: 2px 2px #FF0000;
+}
+
 header{
-  background:#35424a;
+  background:#184165;
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
-  border-bottom:#e8491d 3px solid;
+  border-bottom:#184165 3px solid;
 }
 
 header a{
@@ -113,7 +119,7 @@ span.highlight {
 #newsletter{
   padding:15px;
   color:#ffffff;
-  background:#35424a
+  background:#184165;
 }
 
 #newsletter h1{
@@ -129,6 +135,7 @@ span.highlight {
   padding:4px;
   height:25px;
   width:250px;
+  border-radius: 15px;
 }
 
 /* Boxes */
@@ -178,7 +185,7 @@ footer{
   padding:20px;
   margin-top:20px;
   color:#ffffff;
-  background-color:#e8491d;
+  background-color:#184165;
   text-align: center;
 }
 
